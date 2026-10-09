@@ -1,0 +1,7 @@
+.pio
+.vscode
+*.o
+*.elf
+*.bin
+test_runner
+__pycache__/
